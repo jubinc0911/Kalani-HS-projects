@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=WhiteCell
+comment0.text=\r\n\ This\ is\ a\ white\ blood\ cell.\ This\ kind\ of\ cell\ has\ the\ job\ to\ catch\ bacteria\ and\r\n\ remove\ them\ from\ the\ blood.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\:\ move\ up\ and\ down\ when\ cursor\ keys\ are\ pressed.\r\n
+comment2.params=points
+comment2.target=void\ addToScore(int)
+comment3.params=
+comment3.target=void\ checkKeyPress()
+comment3.text=\r\n\ Check\ whether\ a\ keyboard\ key\ has\ been\ pressed\ and\ react\ if\ it\ has.\r\n
+comment4.params=
+comment4.target=void\ checkCollision()
+comment4.text=\r\n\ Check\ whether\ we\ are\ touching\ a\ bacterium\ or\ virus.\ Remove\ bacteria.\r\n\ Game\ over\ if\ we\ hit\ a\ virus.\r\n
+numComments=5
